@@ -266,6 +266,9 @@ h2 {
   .container.transition .cta-section {
     left: 2%;
   }
+   .small-subtitle {
+    margin-bottom: 10rem;
+  }
 
   .text-container {
     width: 90%;
